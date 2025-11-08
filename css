@@ -1,0 +1,35 @@
+/* styles.css */
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial;
+  line-height: 1.6;
+  margin: 0;
+  padding: 1rem;
+}
+nav ul {
+  list-style: none;
+  margin: 0 0 1rem 0;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+.profile {
+  width: 200px;
+  border-radius: 8px;
+}
+.hero {
+  max-width: 800px;
+  margin: 0 auto;
+}
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem 0;
+}
+figure {
+  margin: 0 0 1rem 0;
+}
